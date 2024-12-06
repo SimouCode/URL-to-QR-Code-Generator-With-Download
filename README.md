@@ -34,11 +34,11 @@ To use this app locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/qr-code-generator.git
+    git clone (https://github.com/SimouCode/URL-to-QR-Code-Generator-With-Download.git)
     ```
 2. Navigate to the project directory:
     ```bash
-    cd qr-code-generator
+    cd QR-Code-Generator-With-Download
     ```
 3. Open `index.html` in your browser to start generating QR codes.
 
